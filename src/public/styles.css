@@ -1,0 +1,14 @@
+.slider--inner{
+
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+height: 400px;
+
+
+
+}
+.slider{
+
+    overflow: hidden;
+}
