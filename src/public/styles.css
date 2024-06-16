@@ -1,12 +1,18 @@
-
+body{
+    
+    background-color: #a6a6bd;
+}
 
 
 .Textodiv{
-
-    background-color: darkslategray;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(154, 156, 156);
     height: 50vh;
-    width: 100%;
+    
     margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .slider-wrapper{
